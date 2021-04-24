@@ -1,3 +1,3 @@
-# test-GAN
+# Art classifier
 
-This is a test of a GAN
+I am trying to make an AI that can tell a piece of art's genre
